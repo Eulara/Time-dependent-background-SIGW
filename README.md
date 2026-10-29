@@ -18,7 +18,7 @@ Output: Phi, Green's function and kernel cache, GW spectrum results
 ## Notebook3--SIGW_EoS_model.ipynb
 *To compute SIGW spectrum in the toy model background*
 
-Input: toy model parameter (inside the notebook)
+Input: 'cs2_model.csv' and 'w_model.csv'
 
 Output: Phi, Green's function and kernel cache, GW spectrum results
 
